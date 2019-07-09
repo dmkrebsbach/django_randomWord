@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 36px;
+    color: red;
+    padding: 25px;
+    border: 5px solid red;
+
+}
+
+h3 {
+    font-size: 28px;
+    color: blue;
+    padding: 25px;
+}
+
+h2 {
+    font-size: 56px;
+    color: purple;
+    padding: 25px;
+}
